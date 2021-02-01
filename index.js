@@ -6,4 +6,4 @@ const numarDouaCifre = (x) =>{
     }
     }
 
-console.log(numarDouaCifre(354));
+console.log(numarDouaCifre(34));
